@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Farhad Khan</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
