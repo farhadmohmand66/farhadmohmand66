@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/farhadmohmand66" target="blank"><img src="https://img.shields.io/twitter/follow/farhadmohmand66?logo=twitter&style=for-the-badge" alt="farhadmohmand66" /></a> </p>
 
-- Domain **Data Science, Machine Learning, Web Scraping**
+- Domain **Data Science:
+Machine Learning, Data Analysis, Data Exploration, Data Wrangling, Data Visualization. Deep learning,
+ ML Model Deployment, Chatbot Development Using Rasa, Web Scrapping, Django framework for backend web development**
 
-- Data Analysis: **Web Scraping, Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
