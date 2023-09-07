@@ -5,7 +5,7 @@
 
 - Domain **Data Science, Machine Learning, Web Scraping**
 
-- Data Analysis: **Data Scraping,Data Preprocessing, Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.**
+- Data Analysis: **Web Scraping, Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
