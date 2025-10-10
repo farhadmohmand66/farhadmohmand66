@@ -87,7 +87,3 @@ See my full profile for more projects: [https://github.com/farhadmohmand66](http
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadmohmand66&show_icons=true&locale=en&layout=compact" alt="farhadmohmand66"/></p>
 
 ---
-
-### Want me to tailor this README?
-
-If you'd like a shorter resume-style README, a translated Pashto version, or a personal portfolio website version, tell me which one and I'll prepare it.
