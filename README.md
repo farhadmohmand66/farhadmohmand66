@@ -15,7 +15,7 @@ I'm a **Data Scientist from Pakistan** with strong experience in **Machine Learn
 I enjoy transforming real-world data into insights and deployable AI solutions — from **data scraping and preprocessing** to **model training**, **evaluation**, and **deployment**.
 
 - 🌱 Currently exploring **Deep Learning**, **Apache Spark**, and **Production ML Pipelines**
-- 💬 Fluent in **English**, prefer **Pashto** for communication when requested
+- 💬 Fluent in **English**, prefer **Pashto, Urdu, Spanish** for communication when requested
 - 🧰 Skilled in **end-to-end ML workflows**, **data pipelines**, and **web scraping**
 
 ---
