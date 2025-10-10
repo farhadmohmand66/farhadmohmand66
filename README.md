@@ -104,18 +104,18 @@ See my full profile for more projects: [https://github.com/farhadmohmand66](http
 * ☎️ WhatsApp: +92 346 9869529
 
 ## Connect with me
-
+<p align="center">
 <p>
   <a href="https://twitter.com/farhadmohmand66" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/farhadmohmand66" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
   <a href="https://www.facebook.com/princefarhad66" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"/></a>
   <a href="https://wa.me/03469869529?text=" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40"/></a>
 </p>
-
+</p>
 ---
 
 ## GitHub Stats
-
+<p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadmohmand66&show_icons=true&locale=en&layout=compact" alt="farhadmohmand66"/></p>
-
+</p>
 ---
