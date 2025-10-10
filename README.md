@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhad Khan</h1>
 
-<h3 align="center">Passionate Data Scientist • Machine Learning • NLP • Big Data</h3>
+<h3 align="center">Passionate Data Scientist • Machine Learning • NLP • Big Data Analysis</h3>
 
 <p align="center">
   <a href="https://github.com/farhadmohmand66" target="_blank"><img src="https://img.shields.io/badge/GitHub-farhadmohmand66-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -14,7 +14,6 @@
 
 I'm a Data Scientist from Pakistan with strong experience in machine learning, natural language processing (NLP), and practical data engineering for research and production. I enjoy turning messy real-world data into insights and deployable models — from scraping and preprocessing to model training, evaluation, and deployment.
 
-* 🔭 Currently working on projects involving **event extraction**, **AI policy & industry impact analysis**, and **aspect-level sentiment analysis** of large news corpora.
 * 🌱 I love learning deep learning, Apache Spark, and production-ready ML pipelines.
 * 💬 I speak English and prefer Pashto for communication when requested.
 
@@ -69,7 +68,7 @@ See my full profile for more projects: [https://github.com/farhadmohmand66](http
 ## Get in touch
 
 * 📫 Email: [farhadmohmand66@gmail.com](mailto:farhadmohmand66@gmail.com)
-* 📄 CV (Google Drive): [https://drive.google.com/file/d/1patxw14rV4XHy2FHoyZV2fQLM1qHDPsr/view](https://drive.google.com/file/d/1patxw14rV4XHy2FHoyZV2fQLM1qHDPsr/view)
+* 📄 CV (Google Drive): [https://drive.google.com/file/d/1patxw14rV4XHy2FHoyZV2fQLM1qHDPsr/view?usp=sharing)
 * ☎️ WhatsApp: +92 346 9869529
 
 ## Connect with me
