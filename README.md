@@ -72,7 +72,7 @@ I enjoy transforming real-world data into insights and deployable AI solutions �
 
 - ✉️ **Email:** [farhadmohmand22@gmail.com](mailto:farhadmohmand22@gmail.com)  
 - 📄 **CV:** [View on Google Drive](https://drive.google.com/file/d/1patxw14rV4XHy2FHoyZV2fQLM1qHDPsr/view?usp=sharing)  
-- ☎️ **WhatsApp:** [+92 346 9869529](https://wa.me/923469869529)
+
 
 ---
 
