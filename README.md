@@ -71,7 +71,7 @@ I enjoy transforming real-world data into insights and deployable AI solutions �
 ## 📫 Get in Touch
 
 - ✉️ **Email:** [farhadmohmand22@gmail.com](mailto:farhadmohmand22@gmail.com)  
-- 📄 **CV:** [View on Google Drive](https://drive.google.com/file/d/1patxw14rV4XHy2FHoyZV2fQLM1qHDPsr/view?usp=sharing)  
+- 📄 **CV:** [View on Google Drive](https://drive.google.com/file/d/1mbqjfAEYumLbATOtzf8GNvx-bl-AP13I/view?usp=sharing)  
 
 
 ---
