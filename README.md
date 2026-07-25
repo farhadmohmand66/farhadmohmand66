@@ -141,16 +141,7 @@ Publication list in preparation. Google Scholar and ORCID profiles coming soon.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farhadmohmand66&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadmohmand66&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=farhadmohmand66&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhadmohmand66&column=7&margin-w=8&no-frame=true" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=farhadmohmand66&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
 ---
