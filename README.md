@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/farhadmohmand66"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/farhadMohmand66"><img src="https://img.shields.io/badge/X-@farhadMohmand66-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.kaggle.com/farhadkhan66"><img src="https://img.shields.io/badge/Kaggle-farhadkhan66-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://scholar.google.com/citations?user=FaPzg8oAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="mailto:farhadmohmand22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=farhadmohmand66&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
@@ -134,7 +135,9 @@ Event Extraction &middot; Information Extraction &middot; Named Entity Recogniti
 
 **Publications**
 
-Publication list in preparation. Google Scholar and ORCID profiles coming soon.
+**Google Scholar:** [Farhad Khan](https://scholar.google.com/citations?user=FaPzg8oAAAAJ&hl=en)
+
+Full publication list in preparation.
 
 ---
 
@@ -154,6 +157,7 @@ Publication list in preparation. Google Scholar and ORCID profiles coming soon.
 | LinkedIn | [farhadmohmand66](https://www.linkedin.com/in/farhadmohmand66) |
 | X | [@farhadMohmand66](https://twitter.com/farhadMohmand66) |
 | Kaggle | [farhadkhan66](https://www.kaggle.com/farhadkhan66) |
+| Google Scholar | [Farhad Khan](https://scholar.google.com/citations?user=FaPzg8oAAAAJ&hl=en) |
 | Email | farhadmohmand22@gmail.com |
 | Location | Chengdu, China |
 
