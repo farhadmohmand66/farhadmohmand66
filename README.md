@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Farhad Khan</h1>
 
 <p align="center">
-  <b>PhD Student in Computer Science &middot; UESTC, Chengdu, China</b><br>
+  <b>Doctoral Candidate, School of Computer Science and Engineering &middot; UESTC, Chengdu, China</b><br>
   Event Extraction &middot; Natural Language Processing &middot; Machine Learning
 </p>
 
