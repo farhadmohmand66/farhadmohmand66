@@ -95,7 +95,7 @@ BERT-based Named Entity Recognition for industrial maintenance logs, extracting 
 
 Submitted to the Shijiazhuang Innovation & Entrepreneurship Competition (International Track).
 
-### [Event Extraction](https://github.com/farhadmohmand66/MultiGranularityEAE)
+### [Event Argument Extraction](https://github.com/farhadmohmand66/MultiGranularityEAE)
 MultiGranularityEAE is a span-based model for document-level Event Argument Extraction (EAE): given a document and an event trigger, it identifies the text spans filling each argument role.
 
 `Python` `RoBERTa` `Transformers`
