@@ -18,7 +18,7 @@
 
 ## Introduction
 
-I am a **PhD student in Computer Science** at the **University of Electronic Science and Technology of China (UESTC)**, Chengdu, with a background in applied data science and natural language processing.
+I am a **PhD candidate in Computer Science** at the **University of Electronic Science and Technology of China (UESTC)**, Chengdu, with a background in applied data science and natural language processing.
 
 My research centres on **Event Extraction** - detecting event triggers and classifying event types in unstructured text - and on **information extraction** more broadly. I work with transformer architectures (BERT and variants) across both high-resource and **low-resource languages**, including original corpus construction for **Pashto**.
 
