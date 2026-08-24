@@ -95,17 +95,17 @@ BERT-based Named Entity Recognition for industrial maintenance logs, extracting 
 
 Submitted to the Shijiazhuang Innovation & Entrepreneurship Competition (International Track).
 
-### [Event Extraction](https://github.com/farhadmohmand66/Event_Extraction)
-Event trigger detection and event-type classification using BERT on the RAMS dataset (Johns Hopkins). Core to my doctoral research on information extraction.
+### [Event Extraction](https://github.com/farhadmohmand66/MultiGranularityEAE)
+MultiGranularityEAE is a span-based model for document-level Event Argument Extraction (EAE): given a document and an event trigger, it identifies the text spans filling each argument role.
 
-`Python` `BERT` `Transformers` `RAMS`
+`Python` `RoBERTa` `Transformers`
 
 ### [Smart Dispatch](https://github.com/farhadmohmand66/smart-dispatch)
 Delivery-time prediction and late-delivery classification built on PySpark ML. Covers the full lifecycle across four sequential notebooks - data preparation, training, evaluation, and inference - and exports a dependency-free scoring function served through a Flask API, avoiding per-request Spark JVM overhead for real-time use.
 
 `PySpark` `Spark MLlib` `Flask` `Gunicorn` `Hadoop HDFS`
 
-### [Pashto Sentiment Analysis](https://github.com/farhadmohmand66/sentimentAnalysisUnisgML)
+### [Sentiment Analysis](https://github.com/farhadmohmand66/sentimentAnalysisUnisgML)
 Sentiment analysis for Pashto, a low-resource language. Includes an original corpus collected from social media and annotated by two native speakers across politics, sports, and entertainment, benchmarked with SVM, Naive Bayes, Decision Tree, Random Forest, and AdaBoost.
 
 `Python` `scikit-learn` `Django` `Kaggle Dataset`
